@@ -2400,6 +2400,15 @@
       },
       "!has": {
         "doc": "`[\"!has\", key]` `feature[key]` does not exist"
+      },
+      "regex-test": {
+        "doc": ""
+      },
+      "regex-replace": {
+        "doc": ""
+      },
+      "regex-match": {
+        "doc": ""
       }
     },
     "doc": "The filter operator."
